@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.314,=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_doc_type.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_abonement.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.882,=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_abonent_edit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_doc_type_edit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_doc_edit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_issued_doc.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.259,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_card_edit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,E:\Data Folder\_user folder\Мои документы\Embarcadero\Studio\Projects\Unit1.pas=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_abonement.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_abonent_edit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.080,E:\Data Folder\_user folder\Мои документы\Embarcadero\Studio\Projects\Project1.dproj=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\std_card.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=E:\Data Folder\_user folder\Мои документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,=E:\Data Folder\_user folder\Мои документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_doc_type.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_issued_doc.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,E:\Data Folder\_user folder\Мои документы\Embarcadero\Studio\Projects\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_doc_type_edit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.259,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_card_edit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,E:\Data Folder\_user folder\Рабочий стол\Учет карточек\Unit1.dfm=E:\Data Folder\_user folder\Рабочий стол\Учет карточек\form_doc_edit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
